@@ -1,4 +1,4 @@
-# Financial Econometrics & Quantitative Risk Modeling
+# Financial Risk Analytics & Econometrics in Python
 
 This repository contains an end-to-end **quantitative econometrics and risk modeling pipeline** for financial markets.  
 The project is designed as an academic–professional portfolio showcasing practical skills in econometrics, time series analysis, volatility modeling, risk measurement, and quantitative portfolio analysis using Python.
