@@ -1,4 +1,4 @@
-# Quantitative Financial Risk & Econometrics Pipeline
+# Quantitative Financial Risk Modelling & Econometrics Pipeline
 
 End-to-end quantitative finance pipeline for financial market analysis, econometric modelling, volatility modelling, tail-risk measurement, derivatives pricing, portfolio optimization and systematic strategy evaluation.
 
